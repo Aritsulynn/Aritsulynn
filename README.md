@@ -1,4 +1,4 @@
-# 👋 Hello guys, I’m @lynniswaifu
+# 👋 Hello guys, I’m @Aritsulynn
 <!-- ![Aritsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aritsulynn&show_icons=true&theme=dracula) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aritsulynn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
