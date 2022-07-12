@@ -1,5 +1,5 @@
-# 👋 Hello guys, I’m @Aritsulynn
-<!-- ![Aritsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aritsulynn&show_icons=true&theme=dracula) -->
+# 👋 Hello guys, I’m @aritsulynn
+<!-- ![aritsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aritsulynn&show_icons=true&theme=dracula) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aritsulynn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -10,8 +10,4 @@
 ## Coding Langauge
 > I’m good at python, html, css and javascript.
 
-<!---
-lynniswaifu/lynniswaifu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
