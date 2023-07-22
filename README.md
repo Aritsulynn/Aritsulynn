@@ -1,13 +1,22 @@
-# 👋 Hello guys, I’m @aritsulynn
-<!-- ![aritsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aritsulynn&show_icons=true&theme=dracula) -->
+<h1 align="center">👋Hi! I'm Lynn</h1>
+<p align="center">I'm a Junior Software Engineering student in Thailand.</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aritsulynn&layout=compact&theme=transparent" />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aritsulynn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## About me
-> You guys can call me Lynn.
-> I love anime and manga for along time! if you mind to be friends about that feel free to contact me!
+<h2 align="center">My Coding Languages</h2>
 
-## Coding Langauge
-> I’m good at python, html, css and javascript.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,java,c,nodejs,react,git,vue,graphql,html,css,tailwind,&theme=dark" />
+  </a>
+</p>
+
+
+
+
 
 
