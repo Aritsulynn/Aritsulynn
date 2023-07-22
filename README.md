@@ -11,11 +11,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,java,c,nodejs,react,git,vue,graphql,html,css,tailwind,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,js,java,c,nodejs,react,git,mui,vue,graphql,html,css,tailwind,&theme=dark" />
   </a>
 </p>
 
+<h2 align="center">Focusing on</h2>
 
+<p align="center">
+     frontend and backend.
+</p>
 
 
 
