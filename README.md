@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi! I'm Lynn</h1>
-<p align="center">I'm a Junior student in Thailand.</p>
+<p align="center">I'm a Junior Software Engineer student in Thailand.</p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aritsulynn&layout=compact&theme=transparent" />
