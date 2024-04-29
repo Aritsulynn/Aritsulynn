@@ -7,7 +7,7 @@
 </p>
 
 
-<h2 align="center">My Coding Languages</h2>
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
